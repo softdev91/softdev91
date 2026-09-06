@@ -211,12 +211,12 @@ I'm open to opportunities and collaborations involving:
 **Senior Software Engineering • Backend Engineering • Full-Stack Development • Python • AI/ML • Data Engineering • Cloud Architecture**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roderick-dimaya-2a7488423/">
-    <img src="https://img.shields.io/badge/LinkedIn-Roderick%20Dimaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pravin-ghuge/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pravin%20Ghuge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:derekdimaya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-derekdimaya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:pravinghuge7340@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pravinghuge7340%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
